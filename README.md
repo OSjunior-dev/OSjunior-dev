@@ -29,7 +29,7 @@
 <img align="center" alt="junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
-  <img align="right" alt="osjunior" height="150" width="300" src="https://media.giphy.com/media/42BtTK6zkWR1OMVY8J/giphy.gif">
+  <img align="right" alt="osjunior" height="150" width="250" src="https://media.giphy.com/media/42BtTK6zkWR1OMVY8J/giphy.gif">
 </div>
 
 ##
